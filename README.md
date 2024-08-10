@@ -4,7 +4,7 @@ In this project, I investigate customer data for a car insurance company and bui
 
 ## Acknowledgement
 
-The idea and dataset for this project is from [this DataCamp project](https://app.datacamp.com/learn/projects/modeling_car_insurance_claim_outcomes/guided/Python).
+The idea and dataset for this project are from [this DataCamp project](https://app.datacamp.com/learn/projects/modeling_car_insurance_claim_outcomes/guided/Python).
 
 ## Contact
 
